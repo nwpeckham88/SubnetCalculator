@@ -1,0 +1,5 @@
+{
+  "name": "SubnetAI - Visual Subnet Calculator",
+  "description": "A real-time, interactive IPv4 subnet calculator with binary visualization and an AI-powered network tutor.",
+  "requestFramePermissions": []
+}
